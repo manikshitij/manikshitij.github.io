@@ -1,0 +1,43 @@
+# Site Settings
+title: Kshitij Mani
+email: mani.smhs@gmail.com
+description: My personal blog.
+baseurl:  # the subpath of your site, e.g. /blog
+url: "https://manikshitij.github.io" # the base hostname & protocol for your site
+google_analytics: "UA-XXXXXXXX-X"
+
+# User Settings
+username: KSHITIJ MANI
+user_description:
+disqus_username: 
+
+# Social Media
+# Remove the item if you don't need it
+github_username: manikshitij
+facebook_username: kshitij.mani
+twitter_username: manikshitij
+instagram_username: kshitijmani
+linkedin_username: kshitij-mani-753145139
+medium_username: mani.smhs
+
+# Build settings
+markdown: kramdown
+highlighter: rouge
+permalink: /:title/
+
+# Plugins
+gems:
+  - jemoji
+
+# Links to include in menu navigation
+# For external links add external: true
+links:
+  - title: Blog
+    url: /
+  - title: About
+    url: /about/
+  - title: Contact
+    url: /contact/
+
+# Exclude my node related stuff
+exclude: ['package.json', 'src', 'node_modules']
