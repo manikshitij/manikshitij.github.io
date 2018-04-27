@@ -9,9 +9,9 @@ permalink: /about/
 
 ## About
 
-Hello, my name is Kshitij Mani and I am a full time developer and also
-a machine learning enthusiast, who is currently an undergrad student at 
-Bangalore Institute of Technology, Bangalore. I also am interested in
+Hello, my name is Kshitij Mani and I am a full time python developer and 
+also a machine learning enthusiast, who is currently an undergrad student 
+at Bangalore Institute of Technology, Bangalore. I also am interested in
 financial researches.
 
 You can download my resume from <a href="/assets/resume.pdf">here</a>.
