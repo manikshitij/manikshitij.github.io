@@ -5,8 +5,8 @@
     <description>My personal blog.</description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Thu, 26 Apr 2018 20:34:31 +0530</pubDate>
-    <lastBuildDate>Thu, 26 Apr 2018 20:34:31 +0530</lastBuildDate>
+    <pubDate>Fri, 27 Apr 2018 14:32:47 +0530</pubDate>
+    <lastBuildDate>Fri, 27 Apr 2018 14:32:47 +0530</lastBuildDate>
     <generator>Jekyll v3.5.1</generator>
     
       <item>
@@ -158,18 +158,6 @@
         
         
         <category>mobile</category>
-        
-      </item>
-    
-      <item>
-        <title>Seja bem-vindo</title>
-        <description>&lt;p&gt;Cas sociis natoque penatibus et magnis &lt;a href=&quot;#&quot;&gt;dis parturient montes&lt;/a&gt;, nascetur ridiculus mus. &lt;em&gt;Aenean eu leo quam.&lt;/em&gt; Pellentesque ornare sem lacinia quam venenatis vestibulum. Sed posuere consectetur est at lobortis. Cras mattis consectetur purus sit amet fermentum.&lt;/p&gt; &lt;blockquote&gt; &lt;p&gt;Curabitur blandit tempus porttitor. Nullam quis risus eget urna mollis ornare vel eu leo. Nullam id dolor id nibh ultricies vehicula ut id elit.&lt;/p&gt; &lt;/blockquote&gt; &lt;p&gt;Etiam porta &lt;strong&gt;sem malesuada magna&lt;/strong&gt; mollis euismod. Cras mattis consectetur purus sit amet fermentum. Aenean lacinia bibendum nulla sed consectetur.&lt;/p&gt; &lt;h2 id=&quot;inline-html-elements&quot;&gt;Inline HTML elements&lt;/h2&gt; &lt;p&gt;HTML defines a long list of available inline tags, a complete list of...</description>
-        <pubDate>Wed, 10 Oct 2012 00:00:00 +0530</pubDate>
-        <link>http://localhost:4000/seja-bem-vindo/</link>
-        <guid isPermaLink="true">http://localhost:4000/seja-bem-vindo/</guid>
-        
-        
-        <category>blog</category>
         
       </item>
     
