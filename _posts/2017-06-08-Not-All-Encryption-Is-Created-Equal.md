@@ -8,7 +8,7 @@ tags:
 - Cryptography
 - Network Security
 image: 'http://ftper.newsusa.com/Thumbnail/EqualEncryption.jpg'
-twitter_text: <a href="twitter.com">Twitter</a>
+twitter_text: Not All Encryption Is Created Equal
 introduction: What You Should Know About Data Encryption
 ---
 
