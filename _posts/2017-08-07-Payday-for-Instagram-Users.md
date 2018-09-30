@@ -11,7 +11,7 @@ tags:
 - Blog
 - Digital Marketing
 - Instagram Monetization
-twitter_text: <a href="twitter.com">Twitter</a>
+twitter_text: Payday for Instagram Users!
 introduction: Imagine getting paid just to post on Instagram about brands and local businesses you are interested in.
 ---
 
