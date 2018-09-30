@@ -8,7 +8,7 @@ tags:
 - Adventure
 - Health
 - Exotic
-twitter_text: <a href="twitter.com">Twitter</a>.
+twitter_text: Scuba Diving Brings Health, Hope to Injured And Disabled.
 introduction: Scuba diving can be an exotic and enriching activity, but for many, it can also be a therapeutic one..
 ---
 
