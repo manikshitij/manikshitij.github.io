@@ -2,15 +2,14 @@
 layout: post
 title: "If You're Stuck at Sea, There's An App for That"
 date: 2017-09-10 12:26:40
-image: 'http://ftper.newsusa.com/Thumbnail/BoatUSBreakDown.jpg'
+image: 'https://cdn.firehouse.com/files/base/cygnus/fhc/image/2017/12/960w/Stanley_RESCUE_HamiltonBeach__2_.5a31ff709cf1f.jpg'
 description: A life saving tip.
 category: 'life'
 tags:
-- app
-- hilarious
-- life-saver
-- life
-- tips
+- App
+- Hilarious
+- Life Saver
+- Tips
 twitter_text: If You're Stuck at Sea, There's An App for That.
 introduction: No one out enjoying time on a boat wants to think about breaking down and needing a tow, but a little preparation can make a big difference.
 ---
