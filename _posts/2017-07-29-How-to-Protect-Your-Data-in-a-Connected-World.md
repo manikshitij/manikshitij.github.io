@@ -9,7 +9,7 @@ tags:
 - Digital Footprint
 - Online Activity
 - Social Network
-twitter_text: <a href="twitter.com"></a>
+twitter_text: How to Protect Your Data in a Connected World
 introduction: In a world where everyone and everything is connected, digital security is a must-have, just as important as the lock on your front door or the keys to your house.
 ---
 
