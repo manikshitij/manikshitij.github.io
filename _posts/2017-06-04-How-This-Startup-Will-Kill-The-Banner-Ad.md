@@ -10,7 +10,7 @@ tags:
 - Digitalisation
 - Marketing
 twitter_text: How This Startup Will Kill The Banner Ad.
-introduction: How the Advertisement Market changing.
+introduction: How the Advertisement Market is changing.
 ---
 
 It has been 25 years since the first banner ad hit the internet. Yet, while the web has changed nearly every other aspect of our society, the way companies advertise online is still stuck in the stone age.
