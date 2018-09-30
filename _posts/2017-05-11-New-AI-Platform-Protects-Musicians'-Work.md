@@ -7,7 +7,7 @@ category: 'django'
 tags:
 - Artificial Intelligence
 - Music
-twitter_text: <a href="twitter.com">Twitter</a>
+twitter_text: New AI Platform Protects Musicians' Work.
 introduction: LAlgorithms can empower Musicians too.
 ---
 
