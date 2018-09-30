@@ -2,7 +2,7 @@
 layout: post
 title: "New AI Platform Protects Musicians' Work"
 description: Algorithms can empower Musicians too.
-image: 'http://ftper.newsusa.com/Thumbnail/DigiTraxMusicFacts.jpg'
+image: 'https://cdn.pixabay.com/photo/2015/10/20/12/25/musical-instruments-997706_960_720.png'
 category: 'Music'
 tags:
 - Artificial Intelligence
