@@ -9,7 +9,7 @@ tags:
 - Advetisement
 - Digitalisation
 - Marketing
-twitter_text: <a href="twitter.com">Twitter</a>.
+twitter_text: How This Startup Will Kill The Banner Ad.
 introduction: How the Advertisement Market changing.
 ---
 
