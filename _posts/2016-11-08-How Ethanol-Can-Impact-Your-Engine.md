@@ -9,7 +9,7 @@ tags:
 - Renewable
 - Biofuel
 - Ethanol
-twitter_text: <a href="twitter">Twitter</a>
+twitter_text: How Ethanol Can Impact Your Engine
 introduction: Can going green affect your car.
 comments: true
 ---
