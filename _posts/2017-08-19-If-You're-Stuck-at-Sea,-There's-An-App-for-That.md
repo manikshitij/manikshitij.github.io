@@ -11,7 +11,7 @@ tags:
 - life-saver
 - life
 - tips
-twitter_text: <a href="twitter.com"></a>.
+twitter_text: If You're Stuck at Sea, There's An App for That.
 introduction: No one out enjoying time on a boat wants to think about breaking down and needing a tow, but a little preparation can make a big difference.
 ---
 
