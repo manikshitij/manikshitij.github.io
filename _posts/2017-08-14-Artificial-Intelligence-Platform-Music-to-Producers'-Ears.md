@@ -11,7 +11,7 @@ tags:
 - AI
 - Entertainment
 - Music Industry
-twitter_text: <a href="twitter.com">Twitter</a>
+twitter_text: Artificial Intelligence Platform Music to Producers' Ears.
 introduction: Technology that drives the music industry.
 ---
 
