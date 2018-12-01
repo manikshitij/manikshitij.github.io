@@ -9,7 +9,7 @@ permalink: /about/
 
 ## About Me
 
-Hi, my name is Kshitij Mani and I am a full time python developer and 
+Hi, my name is Kshitij Mani. I am a full time python developer and 
 also a machine learning enthusiast. I am currently an undergrad student 
 at Bangalore Institute of Technology, Bangalore.
 
