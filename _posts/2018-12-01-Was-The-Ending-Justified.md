@@ -11,7 +11,7 @@ tags:
 - Michael Kelly
 - Netflix
 - Political Drama
-twitter_text: <a href="twitter">Twitter</a>
+twitter_text: House of Cards Season 6 Analysis
 introduction: DISCLAIMER - Personal views on House of Cards Season 6.
 comments: true
 ---
