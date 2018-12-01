@@ -2,7 +2,7 @@
 layout: post
 title: "Was The End Justified?"
 description: Personal views on House of Cards' Season 6
-image: 'https://vignette.wikia.nocookie.net/house-of-cards/images/3/36/House_of_Cards_title_card.jpg/revision/latest?cb=20140217231503'
+image: 'https://manikshitij.github.io/assets/img/hoc_img.png'
 category: 'Television'
 tags:
 - Television
